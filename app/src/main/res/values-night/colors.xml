@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#86202020</color>
+    <color name="colorPrimaryVariant">#a7c0cd</color>
+    <color name="colorSecondary">#37474f</color>
+    <color name="colorOnSecondary">#17262A</color>
+    <color name="secondaryVariant">#62727b</color>
+    <color name="secondaryDarkColor">#102027</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="transparentBorder">#00F6F6F6</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="green">#4CAF50</color>
+    <color name="darkGreen">#5987F88B</color>
+    <color name="yellow">#BAFFEB3B</color>
+    <color name="blue">#03A9F4</color>
+    <color name="errorColor">#FF5860</color>
+    <color name="backgroundColor">#27000000</color>
+    <color name="notesCardBg">#424242</color>
+    <color name="chipBgColor">#5C8E5D</color>
+    <color name="chipStrokeColor">#4CAF50</color>
+    <color name="cardBgColor">#2AE4E4E4</color>
+    <color name="listBgColor">#86202020</color>
+</resources>

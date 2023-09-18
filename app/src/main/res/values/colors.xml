@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#17262A</color>
+    <color name="colorPrimaryVariant">#17262A</color>
+    <color name="colorSecondary">#FAAB1A</color>
+    <color name="colorOnSecondary">#17262A</color>
+    <color name="secondaryVariant">#018786</color>
+    <color name="secondaryDarkColor">#102027</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="transparentBorder">#00F6F6F6</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="backgroundColor2">#EDF0F2</color>
+    <color name="green">#4CAF50</color>
+    <color name="darkGreen">#5987F88B</color>
+    <color name="yellow">#3CFFEB3B</color>
+    <color name="blue">#03A9F4</color>
+    <color name="errorColor">#FF5860</color>
+    <color name="backgroundColor">#52E3E3E3</color>
+    <color name="notesCardBg">#FFEFCF</color>
+    <color name="chipBgColor">#CDFBCE</color>
+    <color name="chipStrokeColor">#4CAF50</color>
+    <color name="cardBgColor">#2AE4E4E4</color>
+    <color name="listBgColor">#65ECEFF1</color>
+    <color name="greyedOut">#5C5C5C</color>
+</resources>
